@@ -21,19 +21,23 @@ python main.py
 ```
 
 Explore the generated plots for end-to-end distance vs. time and equilibrium length vs. number of beads.
-*Plot for End to end distance = 5*
+1. *Plot for End to end distance = 5*
+   
 ![End to end distance = 5](Results/Beads_5.png)
 
 
-*Plot for End to end distance = 10*
+2. *Plot for End to end distance = 10*
+
 ![End to end distance = 5](Results/Beads_10_a_0_b_100.png)
 
 
-*Plot for End to end distance = 20*
+3. *Plot for End to end distance = 20*
+   
 ![End to end distance = 5](Results/Beads_20_a_0_b_100.png)
 
 
-*Plot for Equilibrium length vs No. of Beads*
+4. *Plot for Equilibrium length vs No. of Beads*
+   
 ![End to end distance = 5](Results/Equilibrium.png)
 
 
