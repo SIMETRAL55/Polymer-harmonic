@@ -21,6 +21,22 @@ python main.py
 ```
 
 Explore the generated plots for end-to-end distance vs. time and equilibrium length vs. number of beads.
+*Plot for End to end distance = 5*
+![End to end distance = 5](Results/Beads_5.png)
+
+
+*Plot for End to end distance = 10*
+![End to end distance = 5](Results/Beads_10_a_0_b_100.png)
+
+
+*Plot for End to end distance = 20*
+![End to end distance = 5](Results/Beads_20_a_0_b_100.png)
+
+
+*Plot for Equilibrium length vs No. of Beads*
+![End to end distance = 5](Results/Equilibrium.png)
+
+
 
 ### Results
 The simulation generates insightful visualizations, including graphs of end-to-end distance over time and equilibrium length vs. the number of beads. The code provides a comprehensive understanding of polymer dynamics within the defined bead spring model.
