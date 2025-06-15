@@ -8,18 +8,6 @@ Consider a bead spring model for a Gaussian polymer, where point particles are c
 ## Getting Started
 To run the simulation and visualize the results, follow these steps:
 
-### Clone the repository:
-
-```bash
-git clone https://github.com/your-username/polymer-simulation.git
-cd polymer-simulation
-```
-### Run the simulation script:
-
-```bash
-python main.py
-```
-
 Explore the generated plots for end-to-end distance vs. time and equilibrium length vs. number of beads.
 1. *Plot for End to end distance = 5*
    
